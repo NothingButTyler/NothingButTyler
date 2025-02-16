@@ -23,3 +23,4 @@ I'm also a gamer who posts Roblox and Hill Climb Racing 2.
 
 <a href="//youtube.com/@NothingButTyler">![My SVG](https://github.com/NothingButTyler/NothingButTyler/blob/main/svg/youtube.svg)</a>
 
+<a href="//discord.gg/qyxZCzZXaf">![My SVG](https://github.com/NothingButTyler/NothingButTyler/blob/main/svg/discord.svg)</a>
