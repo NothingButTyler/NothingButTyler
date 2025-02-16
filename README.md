@@ -23,4 +23,4 @@ I'm also a gamer who posts Roblox and Hill Climb Racing 2.
 <!--<a href="https://git.io/typing-svg">-->
 <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Social+Media;Check+out+all+the+social+media+I+have;Subscribe+to+my+YouTube+channel!;%3A)" alt="Typing SVG" /><!--</a>-->
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub Logo" width="100" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/YouTube_play_button_square_%282013-2017%29.svg" alt="YouTube Logo" width="100" height="100">
