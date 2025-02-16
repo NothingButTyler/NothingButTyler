@@ -8,8 +8,9 @@ I'm the owner of these following websites:
 - <a href="//nothingbuttyler.github.io">NothingButTyler Official Site</a>
 - <a href="//valodokagames.github.io">Valodoka Games</a>
 - <a href="//social-connect.github.io">SocialConnect</a>
-- <a href="//nothingbuttylerplus.github.io">NothingButTyler+</a>
+- <a href="//nothingbuttylerplus.github.io">NothingButTyler+</a> (changed to a Glitch website)
 - <a href="//schoolappsredirector.github.io">School Apps Redirector</a>
 
 (Glitch websites)
 - <a href="//adolo.glitch.me">Adolo</a>
+- <s>hi</s>
