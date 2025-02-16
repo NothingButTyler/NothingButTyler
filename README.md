@@ -24,4 +24,5 @@ I'm also a gamer who posts Roblox and Hill Climb Racing 2.
 <a href="//youtube.com/@NothingButTyler">![YouTube SVG](https://github.com/NothingButTyler/NothingButTyler/blob/main/svg/youtube.svg)</a>
 <a href="//discord.gg/qyxZCzZXaf">![Discord SVG](https://github.com/NothingButTyler/NothingButTyler/blob/main/svg/discord.svg)</a>
 <a href="//web.roblox.com/users/3112388514/profile?RedirectedByGitHub=true">![Roblox SVG](https://github.com/NothingButTyler/NothingButTyler/blob/main/svg/roblox.svg)</a>
-<a href="//github.com/NothingButTyler">![GitHub SVG](https://github.com/NothingButTyler/NothingButTyler/blob/main/svg/github.svg)</a>
+<a href="//snapchat.com/add/nothingbuttyler">![Snapchat SVG](https://github.com/NothingButTyler/NothingButTyler/blob/main/svg/snapchat.svg)</a>
+<a href="//linkedin.com/in/nothingbuttyler">![Linkedin SVG](https://github.com/NothingButTyler/NothingButTyler/blob/main/svg/linkedin.svg)</a>
