@@ -13,4 +13,4 @@ I'm the owner of these following websites:
 
 (Glitch websites)
 - <a href="//adolo.glitch.me">Adolo</a>
-- <s>hi</s>
+- <a href="//valovonic.glitch.me" disabled><s>hi</s></a>
