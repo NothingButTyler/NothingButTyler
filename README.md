@@ -21,5 +21,5 @@ I'm also a gamer who posts Roblox and Hill Climb Racing 2.
 <!--<a href="https://git.io/typing-svg">-->
 <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Social+Media;Check+out+all+the+social+media+I+have;Subscribe+to+my+YouTube+channel!;%3A)" alt="Typing SVG" /><!--</a>-->
 
-<a href="//youtube.com/@NothingButTyler">![My SVG](https://github.com/NothingButTyler/svg/youtube.svg)</a>
+<a href="//youtube.com/@NothingButTyler">![My SVG](https://github.com/NothingButTyler/NothingButTyler/blob/main/svg/youtube.svg)</a>
 
