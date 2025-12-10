@@ -6,14 +6,14 @@
 I'm the owner of these following websites:
 
 (GitHub websites)
-- <a href="//nothingbuttyler.github.io">NothingButTyler Official Site</a>
+- <a href="https://nothingbuttyler.github.io">NothingButTyler Official Site</a>
 - <a href="//valodokagames.github.io">Valodoka Games</a>
-- <a href="//social-connect.github.io">SocialConnect</a>
-- <a href="//nothingbuttylerplus.github.io">NothingButTyler+</a> (changed to a Glitch website)
-- <a href="//schoolappsredirector.github.io">School Apps Redirector</a>
+- <a href="https;//social-connect.github.io">SocialConnect</a>
+- <a href="https://nothingbuttylerplus.github.io">NothingButTyler+</a>
+- <a href="https://schoolappsredirector.github.io">School Apps Redirector</a>
 
 (Glitch websites)
-- <a href="//adolo.glitch.me">Adolo</a>
+- <a href="//adoloads.github.io">Adolo</a> (the original link was adolo.glitch.me, but since Glitch is getting shut down, this is the new original link.)
 - <a href="//#" disabled><s>Valovonic</s></a> (not available to show to the public!)
 
 I'm also a gamer who posts Roblox and Hill Climb Racing 2.
