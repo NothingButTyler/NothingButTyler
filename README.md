@@ -20,7 +20,9 @@
 - **School Apps Redirector** – Quick redirect to school apps  
 - **NothingButTyler Website Creator** – Build your own site for free  
 - **WiFly** – Customize and manage your WiFi portals  
-- **Nexora** – Central platform to log into all my projects  
+- **Nexora** – Central platform to log into all my projects
+- **Riglify** - Import Roblox Avatars, Items, Bundles, and Models
+- **Clipora** - A free editing platform that has tons of tools for you to use
 
 📢 **Ad Platforms**  
 - **Adolo Ads** – Advertising platform  
