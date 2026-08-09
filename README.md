@@ -30,7 +30,7 @@
   - GitHub version started as a redirect to the Glitch site  
 
 🤖 **Discord Bots**  
-- **GhostNet** – All-in-one bot (co-created with [@br3hyt](https://github.com/br3hyt)  
+- **Chillix** - Powerful customizable bot, all for free
 - **Epic Verification** – Advanced verification system  
   - Website originally hosted on Replit  
   - Later moved to GitHub after paywall issues  
