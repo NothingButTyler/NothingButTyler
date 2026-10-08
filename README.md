@@ -2,7 +2,7 @@
 
 🎮 **Gamer & Creator**  
 - Content creator with **7.5k subscribers**  
-- Gaming since **HCR2 (2017)** and **Roblox (2021)**  
+- Gaming since **HCR2 (2020)** and **Roblox (2021)**  
 
 💻 **Developer & Coder**  
 - Coding since **2024**  
@@ -13,9 +13,9 @@
 - Passionate about creating websites, apps, and Roblox experiences  
 
 🌐 **Web Projects**  
-- **Valodoka Games** – Free educational games *(est. 2023)*  
-- **SocialConnect** – Free link-in-bio service *(est. 2024)*  
-- **NothingButTyler+** – Premium access for my channel *(originally built on Glitch before it shut down in 2024)*  
+- **[Valodoka Games](https://valodokagames.github.io)** – Free educational games *(est. 2023)*  
+- **[SocialConnect](https://social-connect.github.io)** – Free link-in-bio service *(est. 2024)*  
+- **[NothingButTyler+](https://nothingbuttylerplus.github.io)** – Premium access for my channel *(originally built on Glitch before it shut down in 2024)*  
 - **NothingButTyler Movies** – Watch all my Roblox movies  
 - **School Apps Redirector** – Quick redirect to school apps  
 - **NothingButTyler Website Creator** – Build your own site for free  
