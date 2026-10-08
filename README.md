@@ -16,8 +16,8 @@
 - **[Valodoka Games](https://valodokagames.github.io)** – Free educational games *(est. 2023)*  
 - **[SocialConnect](https://social-connect.github.io)** – Free link-in-bio service *(est. 2024)*  
 - **[NothingButTyler+](https://nothingbuttylerplus.github.io)** – Premium access for my channel *(originally built on Glitch before it shut down in 2024)*  
-- **NothingButTyler Movies** – Watch all my Roblox movies  
-- **School Apps Redirector** – Quick redirect to school apps  
+- **[NothingButTyler Movies](https://nothingbuttylermovies.github.io)** – Watch all my Roblox movies  
+- **[School Apps Redirector](https://schoolappsredirector.github.io)** – Quick redirect to school apps  
 - **NothingButTyler Website Creator** – Build your own site for free  
 - **WiFly** – Customize and manage your WiFi portals  
 - **Nexora** – Central platform to log into all my projects
